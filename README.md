@@ -4,6 +4,7 @@
 Design a Nios2-based System-on-Chip platform and develop associated software that will use Pulse Width Modulation to modulate
 the intensity of the 26 LEDs (18 red and 8 green) that run across the bottom left side of the DE2-115 FPGA Board.
 
+
 ## Lab 2
 Design a SystemVerilog based Avalon IP component for the platform you developed
 as part of the previous lab, named “led_pwm”. led_pwm will provide an interface between Nios2
