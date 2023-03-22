@@ -20,9 +20,6 @@ module led_pwm (
 
 	reg [11:0] global_counter;
 	reg [25:0] duty_cycle_counter [25:0];
-	reg [25:0] dim_counter [25:0];
-	reg [25:0] duty_progress;
-	reg [25:0] dim_progress;
 	// dim_period = 67110000;
 	// pwm_period = 67108864;
 
