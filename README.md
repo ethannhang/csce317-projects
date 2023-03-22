@@ -1,1 +1,1 @@
-# csce317-projects
+# CSCE 317 - Computer Systems Engineering
